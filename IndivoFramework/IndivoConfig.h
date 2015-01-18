@@ -27,15 +27,15 @@
  */
 
 /// The URL to your server, with port number (if other than 80)
-#define kIndivoFrameworkServerURL @"http://sandbox.indivohealth.org:8000"
+#define kIndivoFrameworkServerURL @"http://curatehealth.net:8000"
 
 /// The URL to the UI (!) server, with port number (if other than 80)
-#define kIndivoFrameworkUIServerURL @"http://sandbox.indivohealth.org"
+#define kIndivoFrameworkUIServerURL @"http://curatehealth.net"
 
 /// Your App's id, consumer key and -secret
-#define kIndivoFrameworkAppId @"sampleios@apps.indivo.org"
-#define kIndivoFrameworkConsumerKey @"sampleiosapp@apps.indivo.org"
-#define kIndivoFrameworkConsumerSecret @"youriosapp"
+#define kIndivoFrameworkAppId @"sayan@technicise.com"
+#define kIndivoFrameworkConsumerKey @"sayan@technicise.com"
+#define kIndivoFrameworkConsumerSecret @"mycuratioiosmedsample"
 
 /// Your pillbox API key, needed for some medication functions (you can make it an empty string or nil if you don't have one)
 #define kPillboxAPIKey @""
