@@ -599,7 +599,7 @@
 		EEDC610F144CF23700503C61 /* INBool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = INBool.m; sourceTree = "<group>"; };
 		EEE82D8715D009100017EA0B /* INServerCall+XMLParsing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "INServerCall+XMLParsing.h"; sourceTree = "<group>"; };
 		EEE82D8815D009100017EA0B /* INServerCall+XMLParsing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "INServerCall+XMLParsing.m"; sourceTree = "<group>"; };
-		EEF205F914C092AC00808F24 /* IndivoConfig-default.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IndivoConfig-default.h"; sourceTree = SOURCE_ROOT; };
+		EEF205F914C092AC00808F24 /* IndivoConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IndivoConfig.h; sourceTree = SOURCE_ROOT; };
 		EEF2061D14C0BB4E00808F24 /* NSString+XML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+XML.h"; sourceTree = "<group>"; };
 		EEF2061E14C0BB4E00808F24 /* NSString+XML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+XML.m"; sourceTree = "<group>"; };
 		EEFA8C4F157909840043AEFE /* INTelephone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = INTelephone.h; path = ../GeneratedClasses/INTelephone.h; sourceTree = "<group>"; };
@@ -815,7 +815,7 @@
 			isa = PBXGroup;
 			children = (
 				EE18082514BCF5BC009D7873 /* IndivoConfig.h */,
-				EEF205F914C092AC00808F24 /* IndivoConfig-default.h */,
+				EEF205F914C092AC00808F24 /* IndivoConfig.h */,
 				EEA1B1E9142B82CB001E1A0F /* Indivo.h */,
 				EE3C95EC14117818002BA967 /* IndivoServer.h */,
 				EE3C95ED14117818002BA967 /* IndivoServer.m */,
