@@ -26,6 +26,7 @@
 @implementation IndivoEquipment (Report)
 
 
+
 + (NSString *)reportType
 {
 	return @"reports/minimal/equipment";
