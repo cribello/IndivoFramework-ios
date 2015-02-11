@@ -3,4 +3,4 @@
 	url = git://github.com/chb/MPOAuth.git
 [submodule "IndivoMedicationsSampleiOS"]
 	path = IndivoMedicationsSampleiOS
-	url = git://github.com/mycuratio/IndivoMedicationsExample-ios.git
+	url = git://github.com/chb/IndivoMedicationsExample-ios.git
