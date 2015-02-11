@@ -10,37 +10,37 @@
 	<string>IndivoFramework</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8F08E4A3-067B-4E7C-9ADA-7F3A763F4216</key>
+		<key>10D5AA2CCECCD099737DCFD9E5DD6D0A29D5A265</key>
 		<string>git://github.com/chb/MPOAuth.git</string>
-		<key>97F886A2-128D-4F91-8A1E-2B00125557E6</key>
+		<key>6416708E5BF65A2AF6F6DD3FC0B552068F14FB67</key>
 		<string>git://github.com/chb/IndivoMedicationsExample-ios.git</string>
-		<key>F60D7ED4-5682-4B71-8B46-8CECBFE6F395</key>
+		<key>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</key>
 		<string>https://github.com/mycuratio/IndivoFramework-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>IndivoFramework.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8F08E4A3-067B-4E7C-9ADA-7F3A763F4216</key>
+		<key>10D5AA2CCECCD099737DCFD9E5DD6D0A29D5A265</key>
 		<string>../MPOAuth</string>
-		<key>97F886A2-128D-4F91-8A1E-2B00125557E6</key>
+		<key>6416708E5BF65A2AF6F6DD3FC0B552068F14FB67</key>
 		<string>../IndivoMedicationsSampleiOS</string>
-		<key>F60D7ED4-5682-4B71-8B46-8CECBFE6F395</key>
+		<key>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/mycuratio/IndivoFramework-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F60D7ED4-5682-4B71-8B46-8CECBFE6F395</string>
+	<string>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F60D7ED4-5682-4B71-8B46-8CECBFE6F395</string>
+			<string>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</string>
 			<key>IDESourceControlWCCName</key>
 			<string>IndivoFramework-ios</string>
 		</dict>
@@ -48,7 +48,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>97F886A2-128D-4F91-8A1E-2B00125557E6</string>
+			<string>6416708E5BF65A2AF6F6DD3FC0B552068F14FB67</string>
 			<key>IDESourceControlWCCName</key>
 			<string>IndivoMedicationsSampleiOS</string>
 		</dict>
@@ -56,7 +56,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8F08E4A3-067B-4E7C-9ADA-7F3A763F4216</string>
+			<string>10D5AA2CCECCD099737DCFD9E5DD6D0A29D5A265</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MPOAuth</string>
 		</dict>
