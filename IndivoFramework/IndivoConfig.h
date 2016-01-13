@@ -29,10 +29,10 @@
  */
 
 /// The URL to your server, with port number (if other than 80)
-#define kIndivoFrameworkServerURL @"http://curatehealth.net:8000"
+#define kIndivoFrameworkServerURL @"http://login.mycuratio.com:8000/"
 
 /// The URL to the UI (!) server, with port number (if other than 80)
-#define kIndivoFrameworkUIServerURL @"http://curatehealth.net"
+#define kIndivoFrameworkUIServerURL @"http://login.mycuratio.com/"
 
 /// Your App's id, consumer key and -secret
 #define kIndivoFrameworkAppId @"sayan@technicise.com"
