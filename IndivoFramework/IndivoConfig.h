@@ -18,8 +18,6 @@
  You should have received a copy of the GNU Lesser General Public
  License along with this library; if not, write to the Free Software
  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
- 
- push test
  */
 
 
@@ -29,10 +27,10 @@
  */
 
 /// The URL to your server, with port number (if other than 80)
-#define kIndivoFrameworkServerURL @"http://login.mycuratio.com:8000/"
+#define kIndivoFrameworkServerURL @"http://chart.mycuratio.com:8000"
 
 /// The URL to the UI (!) server, with port number (if other than 80)
-#define kIndivoFrameworkUIServerURL @"http://login.mycuratio.com/"
+#define kIndivoFrameworkUIServerURL @"http://chart.mycuratio.com"
 
 /// Your App's id, consumer key and -secret
 #define kIndivoFrameworkAppId @"sayan@technicise.com"

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35980061-000C-48BB-9C71-7487006B4F71</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IndivoFramework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10D5AA2CCECCD099737DCFD9E5DD6D0A29D5A265</key>
+		<string>git://github.com/chb/MPOAuth.git</string>
+		<key>6416708E5BF65A2AF6F6DD3FC0B552068F14FB67</key>
+		<string>git://github.com/chb/IndivoMedicationsExample-ios.git</string>
+		<key>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</key>
+		<string>https://github.com/mycuratio/IndivoFramework-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IndivoFramework.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10D5AA2CCECCD099737DCFD9E5DD6D0A29D5A265</key>
+		<string>../MPOAuth</string>
+		<key>6416708E5BF65A2AF6F6DD3FC0B552068F14FB67</key>
+		<string>../IndivoMedicationsSampleiOS</string>
+		<key>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mycuratio/IndivoFramework-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B38C57DDEF57C56EE4F40DF908DE697FEA04147</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IndivoFramework-ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6416708E5BF65A2AF6F6DD3FC0B552068F14FB67</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IndivoMedicationsSampleiOS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10D5AA2CCECCD099737DCFD9E5DD6D0A29D5A265</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MPOAuth</string>
+		</dict>
+	</array>
+</dict>
+</plist>
